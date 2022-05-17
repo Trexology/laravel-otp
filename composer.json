@@ -1,5 +1,5 @@
 {
-    "name": "erdemkeren/laravel-otp",
+    "name": "trexology/laravel-otp",
     "description": "Secure your laravel routes with otps. (one time passwords)",
     "homepage": "https://github.com/erdemkeren/laravel-otp",
     "keywords": ["laravel", "otp", "one time passwords", "one time pin", "middleware"],
